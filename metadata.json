@@ -1,0 +1,5 @@
+{
+  "name": "MAO RSBSA Management System",
+  "description": "A comprehensive management system for Municipal Agriculture Office (MAO) to track RSBSA recipients, inventory (seeds, fertilizers, vet chemicals, pesticides), and distributions.",
+  "requestFramePermissions": []
+}
